@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Dianne Mae Raquiz",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "email": "dmraquiz@hawaii.edu",
+    "phone": "",
+    "website": "https://dmraquiz.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "96797",
+      "city": "Waipahu",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "dmraquiz",
+        "url": "http://github.com/dmraquiz"
       },
       {
         "network": "linkedin",
@@ -32,8 +32,8 @@
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "yannahmae",
+        "url": "http://instagram.com/yannahmae"
       }
     ]
   },
@@ -41,8 +41,8 @@
     {
       "name": "internet of things",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Software Engineering,
+        "Database Systems"
       ]
     },
     {
@@ -86,7 +86,7 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016-01-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
