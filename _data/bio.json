@@ -2,7 +2,7 @@
   "basics": {
     "name": "Dianne Mae Raquiz",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://dmraquiz.github.io/images/DSC_0121 (2).JPG",
     "email": "dmraquiz@hawaii.edu",
     "phone": "",
     "website": "https://dmraquiz.github.io",
@@ -16,24 +16,24 @@
     },
     "profiles": [
       {
-        "network": "github",
+        "network": "GitHub",
         "username": "dmraquiz",
         "url": "http://github.com/dmraquiz"
       },
       {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "network": "LinkedIn",
+        "username": "dmraquiz",
+        "url": "http://linkedin.com/in/dianne-mae-raquiz-7a9292124"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "network": "TechHui",
+        "username": "dmraquiz",
+        "url": "http://www.techhui.com/profile/DianneMaeRaquiz"
       },
       {
-        "network": "instagram",
-        "username": "yannahmae",
-        "url": "http://instagram.com/yannahmae"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
