@@ -39,32 +39,29 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Bioinformatics",
       "keywords": [
       ]
     },
     {
-      "name": "data mining",
+      "name": "Database Storage",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Artificial Intelligence",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Languages",
       "level": "",
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Java"
       ]
     },
     {
@@ -74,60 +71,56 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Information and Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
       "startDate": "2016-01-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "4.0",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Papaya Clothing",
+      "position": "Sales Associate",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2015-04-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Provide excellent customer service to all consumers.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        ""
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
+      "company": "Leeward Community College",
+      "position": "Peer Mentor/Student Assistant",
+      "website": "",
       "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "endDate": "2016-05-30",
+      "summary": "Provide assistance to students (individual and small groups) academically.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        ""
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Tuloy Pangarap (Filipino Club)",
+      "website": "http://tuloypangarap.weebly.com/",
+      "position": "Volunteer",
+      "startDate": "2014-08-01",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Encourage Filipino students to finish their Bachelor's degree (at least)",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        ""
       ]
     },
     {
@@ -146,16 +139,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Chancellor's Merit Scholarship",
+      "date": "2012-Present",
+      "awarder": "Leeward Community College",
+      "summary": "Scholarships awarded to college students who has achieved academic excellence with a minimum GPA of 3.0."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "First Hawaiian Bank Scholars",
+      "date": "2014",
+      "awarder": "First Hawaiian Bank",
+      "summary": "Scholarships awarded to college students that has met all the requirements and achieve academic excellence. "
     }
   ],
   "references": [
